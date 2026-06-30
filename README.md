@@ -1,3 +1,11 @@
 # SpaceX Falcon 9 Landing Predictions
 
-In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+IBM Data Science capstone project predicting whether the Falcon 9 first stage will land successfully.
+
+## Goal
+
+Estimate launch cost risk by predicting first-stage landing success. SpaceX can offer lower launch prices partly because successful landings make first-stage reuse possible.
+
+## Approach
+
+The project uses data collection, cleaning, exploratory analysis, and machine learning models to predict landing outcomes.
